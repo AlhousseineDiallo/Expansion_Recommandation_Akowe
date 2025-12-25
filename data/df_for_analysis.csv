@@ -1,0 +1,289 @@
+country_code,year,country_name,income_group,MAS
+AGO,2009,Angola,Upper middle income,15.99
+AGO,2010,Angola,Upper middle income,16.53
+AGO,2011,Angola,Upper middle income,17.41
+AGO,2012,Angola,Upper middle income,19.12
+AGO,2013,Angola,Upper middle income,21.48
+AGO,2014,Angola,Upper middle income,23.01
+BDI,2009,Burundi,Low income,9.63
+BDI,2010,Burundi,Low income,9.77
+BDI,2011,Burundi,Low income,9.66
+BDI,2012,Burundi,Low income,10.32
+BDI,2013,Burundi,Low income,11.09
+BDI,2014,Burundi,Low income,12.98
+BEN,2009,Benin,Low income,16.77
+BEN,2010,Benin,Low income,19.7
+BEN,2011,Benin,Low income,19.91
+BEN,2012,Benin,Low income,20.8
+BEN,2013,Benin,Low income,20.97
+BEN,2014,Benin,Low income,20.8
+BFA,2009,Burkina Faso,Low income,10.64
+BFA,2010,Burkina Faso,Low income,11.07
+BFA,2011,Burkina Faso,Low income,12.45
+BFA,2012,Burkina Faso,Low income,12.23
+BFA,2013,Burkina Faso,Low income,12.87
+BFA,2014,Burkina Faso,Low income,14.58
+BWA,2009,Botswana,Upper middle income,32.61
+BWA,2010,Botswana,Upper middle income,34.11
+BWA,2011,Botswana,Upper middle income,35.91
+BWA,2012,Botswana,Upper middle income,38.22
+BWA,2013,Botswana,Upper middle income,41.23
+BWA,2014,Botswana,Upper middle income,43.12
+CAF,2009,Central African Republic,Low income,6.27
+CAF,2010,Central African Republic,Low income,5.98
+CAF,2011,Central African Republic,Low income,6.33
+CAF,2012,Central African Republic,Low income,6.95
+CAF,2013,Central African Republic,Low income,6.16
+CAF,2014,Central African Republic,Low income,6.64
+CIV,2009,Côte d'Ivoire,Lower middle income,19.84
+CIV,2010,Côte d'Ivoire,Lower middle income,19.95
+CIV,2011,Côte d'Ivoire,Lower middle income,18.58
+CIV,2012,Côte d'Ivoire,Lower middle income,19.71
+CIV,2013,Côte d'Ivoire,Lower middle income,21.72
+CIV,2014,Côte d'Ivoire,Lower middle income,23.05
+CMR,2009,Cameroon,Lower middle income,18.72
+CMR,2010,Cameroon,Lower middle income,20.15
+CMR,2011,Cameroon,Lower middle income,20.87
+CMR,2012,Cameroon,Lower middle income,22.26
+CMR,2013,Cameroon,Lower middle income,23.61
+CMR,2014,Cameroon,Lower middle income,25.66
+COD,2009,Dem. Rep. Congo,Low income,14.51
+COD,2010,Dem. Rep. Congo,Low income,14.73
+COD,2011,Dem. Rep. Congo,Low income,15.25
+COD,2012,Dem. Rep. Congo,Low income,16.01
+COD,2013,Dem. Rep. Congo,Low income,15.82
+COD,2014,Dem. Rep. Congo,Low income,18.38
+COG,2009,Congo,Lower middle income,21.53
+COG,2010,Congo,Lower middle income,20.97
+COG,2011,Congo,Lower middle income,21.68
+COG,2012,Congo,Lower middle income,22.91
+COG,2013,Congo,Lower middle income,23.15
+COG,2014,Congo,Lower middle income,23.03
+COM,2009,Comoros,Low income,20.32
+COM,2010,Comoros,Low income,21.39
+COM,2011,Comoros,Low income,21.81
+COM,2012,Comoros,Low income,21.35
+COM,2013,Comoros,Low income,20.92
+COM,2014,Comoros,Low income,22.17
+CPV,2009,Cabo Verde,Lower middle income,29.98
+CPV,2010,Cabo Verde,Lower middle income,31.62
+CPV,2011,Cabo Verde,Lower middle income,33.85
+CPV,2012,Cabo Verde,Lower middle income,34.24
+CPV,2013,Cabo Verde,Lower middle income,34.75
+CPV,2014,Cabo Verde,Lower middle income,35.26
+ERI,2009,Eritrea,Low income,14.2
+ERI,2010,Eritrea,Low income,14.63
+ERI,2011,Eritrea,Low income,15.74
+ERI,2012,Eritrea,Low income,17.28
+ERI,2013,Eritrea,Low income,17.36
+ERI,2014,Eritrea,Low income,17.73
+ETH,2009,Ethiopia,Low income,14.72
+ETH,2010,Ethiopia,Low income,16.16
+ETH,2011,Ethiopia,Low income,16.87
+ETH,2012,Ethiopia,Low income,18.98
+ETH,2013,Ethiopia,Low income,19.97
+ETH,2014,Ethiopia,Low income,22.12
+GAB,2009,Gabon,Upper middle income,37.71
+GAB,2010,Gabon,Upper middle income,39.25
+GAB,2011,Gabon,Upper middle income,40.31
+GAB,2012,Gabon,Upper middle income,43.76
+GAB,2013,Gabon,Upper middle income,44.81
+GAB,2014,Gabon,Upper middle income,48.56
+GHA,2009,Ghana,Lower middle income,26.49
+GHA,2010,Ghana,Lower middle income,27.47
+GHA,2011,Ghana,Lower middle income,30.53
+GHA,2012,Ghana,Lower middle income,29.78
+GHA,2013,Ghana,Lower middle income,33.01
+GHA,2014,Ghana,Lower middle income,35.15
+GIN,2009,Guinea,Low income,14.13
+GIN,2010,Guinea,Low income,14.42
+GIN,2011,Guinea,Low income,14.61
+GIN,2012,Guinea,Low income,14.02
+GIN,2013,Guinea,Low income,16.04
+GIN,2014,Guinea,Low income,16.17
+GMB,2009,The Gambia,Low income,19.08
+GMB,2010,The Gambia,Low income,20.54
+GMB,2011,The Gambia,Low income,20.92
+GMB,2012,The Gambia,Low income,21.03
+GMB,2013,The Gambia,Low income,20.6
+GMB,2014,The Gambia,Low income,21.07
+GNB,2009,Guinea-Bissau,Low income,11.15
+GNB,2010,Guinea-Bissau,Low income,11.47
+GNB,2011,Guinea-Bissau,Low income,12.69
+GNB,2012,Guinea-Bissau,Low income,13.93
+GNB,2013,Guinea-Bissau,Low income,14.6
+GNB,2014,Guinea-Bissau,Low income,14.8
+GNQ,2009,Equatorial Guinea,High income: nonOECD,37.74
+GNQ,2010,Equatorial Guinea,High income: nonOECD,35.04
+GNQ,2011,Equatorial Guinea,High income: nonOECD,38.48
+GNQ,2012,Equatorial Guinea,High income: nonOECD,41.4
+GNQ,2013,Equatorial Guinea,High income: nonOECD,37.25
+GNQ,2014,Equatorial Guinea,High income: nonOECD,42.63
+KEN,2009,Kenya,Low income,24.23
+KEN,2010,Kenya,Low income,24.53
+KEN,2011,Kenya,Low income,26.9
+KEN,2012,Kenya,Low income,27.87
+KEN,2013,Kenya,Low income,29.27
+KEN,2014,Kenya,Low income,30.64
+LBR,2009,Liberia,Low income,11.55
+LBR,2010,Liberia,Low income,11.79
+LBR,2011,Liberia,Low income,11.82
+LBR,2012,Liberia,Low income,12.1
+LBR,2013,Liberia,Low income,12.02
+LBR,2014,Liberia,Low income,12.31
+LSO,2009,Lesotho,Lower middle income,15.52
+LSO,2010,Lesotho,Lower middle income,15.32
+LSO,2011,Lesotho,Lower middle income,16.23
+LSO,2012,Lesotho,Lower middle income,16.85
+LSO,2013,Lesotho,Lower middle income,17.97
+LSO,2014,Lesotho,Lower middle income,18.77
+MDG,2009,Madagascar,Low income,13.75
+MDG,2010,Madagascar,Low income,12.71
+MDG,2011,Madagascar,Low income,13.64
+MDG,2012,Madagascar,Low income,14.56
+MDG,2013,Madagascar,Low income,13.41
+MDG,2014,Madagascar,Low income,15.67
+MLI,2009,Mali,Low income,14.96
+MLI,2010,Mali,Low income,15.46
+MLI,2011,Mali,Low income,16.59
+MLI,2012,Mali,Low income,16.78
+MLI,2013,Mali,Low income,15.7
+MLI,2014,Mali,Low income,17.54
+MOZ,2009,Mozambique,Low income,12.37
+MOZ,2010,Mozambique,Low income,13.33
+MOZ,2011,Mozambique,Low income,13.6
+MOZ,2012,Mozambique,Low income,14.01
+MOZ,2013,Mozambique,Low income,14.44
+MOZ,2014,Mozambique,Low income,14.54
+MRT,2009,Mauritania,Lower middle income,12.61
+MRT,2010,Mauritania,Lower middle income,13.45
+MRT,2011,Mauritania,Lower middle income,13.97
+MRT,2012,Mauritania,Lower middle income,13.68
+MRT,2013,Mauritania,Lower middle income,15.0
+MRT,2014,Mauritania,Lower middle income,16.5
+MUS,2009,Mauritius,Upper middle income,41.23
+MUS,2010,Mauritius,Upper middle income,43.01
+MUS,2011,Mauritius,Upper middle income,44.8
+MUS,2012,Mauritius,Upper middle income,46.17
+MUS,2013,Mauritius,Upper middle income,47.84
+MUS,2014,Mauritius,Upper middle income,49.94
+MWI,2009,Malawi,Low income,9.28
+MWI,2010,Malawi,Low income,9.5
+MWI,2011,Malawi,Low income,10.3
+MWI,2012,Malawi,Low income,10.06
+MWI,2013,Malawi,Low income,12.13
+MWI,2014,Malawi,Low income,11.69
+NAM,2009,Namibia,Upper middle income,27.39
+NAM,2010,Namibia,Upper middle income,29.01
+NAM,2011,Namibia,Upper middle income,29.56
+NAM,2012,Namibia,Upper middle income,30.69
+NAM,2013,Namibia,Upper middle income,32.7
+NAM,2014,Namibia,Upper middle income,32.57
+NER,2009,Niger,Low income,10.22
+NER,2010,Niger,Low income,10.41
+NER,2011,Niger,Low income,10.93
+NER,2012,Niger,Low income,11.04
+NER,2013,Niger,Low income,10.97
+NER,2014,Niger,Low income,11.88
+NGA,2009,Nigeria,Lower middle income,28.52
+NGA,2010,Nigeria,Lower middle income,33.19
+NGA,2011,Nigeria,Lower middle income,38.41
+NGA,2012,Nigeria,Lower middle income,43.43
+NGA,2013,Nigeria,Lower middle income,53.77
+NGA,2014,Nigeria,Lower middle income,57.4
+RWA,2009,Rwanda,Low income,14.76
+RWA,2010,Rwanda,Low income,14.48
+RWA,2011,Rwanda,Low income,14.18
+RWA,2012,Rwanda,Low income,15.14
+RWA,2013,Rwanda,Low income,15.52
+RWA,2014,Rwanda,Low income,15.51
+SDN,2009,Sudan,Lower middle income,18.94
+SDN,2010,Sudan,Lower middle income,20.37
+SDN,2011,Sudan,Lower middle income,21.0
+SDN,2012,Sudan,Lower middle income,22.37
+SDN,2013,Sudan,Lower middle income,24.36
+SDN,2014,Sudan,Lower middle income,26.94
+SEN,2009,Senegal,Lower middle income,19.98
+SEN,2010,Senegal,Lower middle income,16.12
+SEN,2011,Senegal,Lower middle income,21.45
+SEN,2012,Senegal,Lower middle income,21.9
+SEN,2013,Senegal,Lower middle income,23.88
+SEN,2014,Senegal,Lower middle income,25.67
+SLE,2009,Sierra Leone,Low income,13.96
+SLE,2010,Sierra Leone,Low income,13.11
+SLE,2011,Sierra Leone,Low income,13.43
+SLE,2012,Sierra Leone,Low income,15.71
+SLE,2013,Sierra Leone,Low income,15.85
+SLE,2014,Sierra Leone,Low income,16.76
+SOM,2009,Somalia,Low income,14.49
+SOM,2010,Somalia,Low income,18.01
+SOM,2011,Somalia,Low income,18.22
+SOM,2012,Somalia,Low income,18.53
+SOM,2013,Somalia,Low income,18.67
+SOM,2014,Somalia,Low income,18.9
+SSD,2009,South Sudan,Lower middle income,9.71
+SSD,2010,South Sudan,Lower middle income,9.89
+SSD,2011,South Sudan,Lower middle income,10.21
+SSD,2012,South Sudan,Lower middle income,10.22
+SSD,2013,South Sudan,Lower middle income,9.17
+SSD,2014,South Sudan,Lower middle income,9.57
+STP,2009,São Tomé and Principe,Lower middle income,19.54
+STP,2010,São Tomé and Principe,Lower middle income,20.11
+STP,2011,São Tomé and Principe,Lower middle income,20.93
+STP,2012,São Tomé and Principe,Lower middle income,23.77
+STP,2013,São Tomé and Principe,Lower middle income,28.31
+STP,2014,São Tomé and Principe,Lower middle income,26.83
+SWZ,2009,Swaziland,Lower middle income,20.85
+SWZ,2010,Swaziland,Lower middle income,22.08
+SWZ,2011,Swaziland,Lower middle income,24.88
+SWZ,2012,Swaziland,Lower middle income,25.67
+SWZ,2013,Swaziland,Lower middle income,25.94
+SWZ,2014,Swaziland,Lower middle income,26.93
+SYC,2009,Seychelles,Upper middle income,38.86
+SYC,2010,Seychelles,Upper middle income,45.11
+SYC,2011,Seychelles,Upper middle income,42.92
+SYC,2012,Seychelles,Upper middle income,46.14
+SYC,2013,Seychelles,Upper middle income,49.72
+SYC,2014,Seychelles,Upper middle income,51.95
+TCD,2009,Chad,Low income,8.92
+TCD,2010,Chad,Low income,8.83
+TCD,2011,Chad,Low income,9.62
+TCD,2012,Chad,Low income,9.41
+TCD,2013,Chad,Low income,10.54
+TCD,2014,Chad,Low income,10.68
+TGO,2009,Togo,Low income,16.6
+TGO,2010,Togo,Low income,16.48
+TGO,2011,Togo,Low income,17.48
+TGO,2012,Togo,Low income,17.72
+TGO,2013,Togo,Low income,17.57
+TGO,2014,Togo,Low income,18.05
+TZA,2009,Tanzania,Low income,12.12
+TZA,2010,Tanzania,Low income,13.92
+TZA,2011,Tanzania,Low income,14.51
+TZA,2012,Tanzania,Low income,15.77
+TZA,2013,Tanzania,Low income,16.0
+TZA,2014,Tanzania,Low income,17.32
+UGA,2009,Uganda,Low income,11.4
+UGA,2010,Uganda,Low income,11.96
+UGA,2011,Uganda,Low income,13.13
+UGA,2012,Uganda,Low income,12.91
+UGA,2013,Uganda,Low income,13.1
+UGA,2014,Uganda,Low income,14.02
+ZAF,2009,South Africa,Upper middle income,42.98
+ZAF,2010,South Africa,Upper middle income,53.94
+ZAF,2011,South Africa,Upper middle income,63.65
+ZAF,2012,South Africa,Upper middle income,68.88
+ZAF,2013,South Africa,Upper middle income,73.75
+ZAF,2014,South Africa,Upper middle income,75.91
+ZMB,2009,Zambia,Lower middle income,19.73
+ZMB,2010,Zambia,Lower middle income,19.1
+ZMB,2011,Zambia,Lower middle income,19.4
+ZMB,2012,Zambia,Lower middle income,19.46
+ZMB,2013,Zambia,Lower middle income,19.7
+ZMB,2014,Zambia,Lower middle income,20.44
+ZWE,2009,Zimbabwe,Low income,18.0
+ZWE,2010,Zimbabwe,Low income,18.41
+ZWE,2011,Zimbabwe,Low income,21.37
+ZWE,2012,Zimbabwe,Low income,25.48
+ZWE,2013,Zimbabwe,Low income,26.08
+ZWE,2014,Zimbabwe,Low income,25.87
