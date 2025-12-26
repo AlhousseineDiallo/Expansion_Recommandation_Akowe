@@ -125,7 +125,9 @@ Le **TAM quantifie le marché potentiel** en croisant enrollment scolaire et acc
 
 Pour que Scale, Momentum, Ability to Pay et Digital Readiness soient **comparables et combinables**, tous les indicateurs sont normalisés via **Min-Max Scaling [0–1]** :
 
-$$\text{X\_normalized} = \frac{X - X_{min}}{X_{max} - X_{min}}$$
+```
+X_normalized = (X - X_min) / (X_max - X_min)
+```
 
 **Avantage** : Chaque indicateur pèse équitablement dans son sous-score, indépendamment de son unité d'origine (USD, %, personnes). Élimine les biais liés aux différences d'échelle.
 
@@ -136,13 +138,17 @@ $$\text{X\_normalized} = \frac{X - X_{min}}{X_{max} - X_{min}}$$
 Chaque sous-score combine plusieurs indicateurs avec des pondérations justifiées par l'importance stratégique :
 
 #### 5-1 Scale Score (35% du MAS) — Taille du marché adressable
-$$\text{Scale\_Score} = \text{TAM\_normalized}$$
+```
+Scale_Score = TAM_normalized
+```
 
 **Composants** : Population en âge scolaire × taux d'accès Internet  
 **Justification du poids 35%** : C'est le **driver dominant** du potentiel de revenus EdTech.Ainsi un marché de 50M apprenants sans connectivité < 5M apprenants connectés.
 
 #### 5-2 Momentum Score (25% du MAS) — Dynamique de croissance
-$$\text{Momentum} = 0.50 \times \text{lower\_secondary\_completion} + 0.20 \times \text{population\_growth} + 0.30 \times \text{tertiary\_enrollment\_trend}$$
+```
+Momentum = 0.50 × lower_secondary_completion + 0.20 × population_growth + 0.30 × tertiary_enrollment_trend
+```
 
 **Composants & pondérations** :
 - **50%** — Taux de complétion du secondaire inférieur (indicateur de qualité & demand pour la formation)
@@ -152,7 +158,9 @@ $$\text{Momentum} = 0.50 \times \text{lower\_secondary\_completion} + 0.20 \time
 **Justification du poids 25%** : Les marchés **statiques décroissent** (ex: démographie négative). La croissance distingue les winners des laggards.
 
 #### 5-3 Ability to Pay Score (25% du MAS) — Capacité de paiement & volonté politique
-$$\text{AbilityToPay} = 0.60 \times \text{gni\_per\_capita\_normalized} + 0.25 \times \text{education\_exp\_gov} + 0.15 \times \text{gdp\_per\_capita}$$
+```
+AbilityToPay = 0.60 × gni_per_capita_normalized + 0.25 × education_exp_gov + 0.15 × gdp_per_capita
+```
 
 **Composants & pondérations** :
 - **60%** — RNB/habitant (proxy du pouvoir d'achat ménage & entreprises)
@@ -162,7 +170,9 @@ $$\text{AbilityToPay} = 0.60 \times \text{gni\_per\_capita\_normalized} + 0.25 \
 **Justification du poids 25%** : EdTech n'a de valeur que si clients et gouvernements peuvent **payer**. Un marché de 100M apprenants en pays pauvre < 10M apprenants en pays riche.
 
 #### 5-4 Digital Readiness Score (15% du MAS) — Faisabilité opérationnelle
-$$\text{DigitalReadiness} = 0.40 \times \text{internet\_access} + 0.60 \times \text{electricity\_access}$$
+```
+DigitalReadiness = 0.40 × internet_access + 0.60 × electricity_access
+```
 
 **Composants & pondérations** :
 - **40%** — Accès à Internet (%population) (nécessaire pour la distribution EdTech)
@@ -174,7 +184,9 @@ $$\text{DigitalReadiness} = 0.40 \times \text{internet\_access} + 0.60 \times \t
 
 ## 6. Calcul du MAS — Formule composite d'attractivité
 
-$$\text{MAS} = 35 \times \text{Scale} + 25 \times \text{Momentum} + 25 \times \text{AbilityToPay} + 15 \times \text{DigitalReadiness}$$
+```
+MAS = 35 × Scale + 25 × Momentum + 25 × AbilityToPay + 15 × DigitalReadiness
+```
 
 **Où chaque sous-score est normalisé [0–1], et le MAS final est mis à l'échelle [0–100].**
 
@@ -233,7 +245,7 @@ $$\text{MAS} = 35 \times \text{Scale} + 25 \times \text{Momentum} + 25 \times \t
 ---
 
 ## Livrable unifié:
-- PowerPoint exécutif avec visualisations clés & recommandations: [`reports/akowe_executive_summary.pptx`](https://1drv.ms/p/c/e46a7471f185415f/IQAEbv1hCbZVRZ8pvO1mSnDvAWc7Zcz9E3Yi8OF7WuIkpHk?e=MuXMSG)
+- PowerPoint exécutif avec visualisations clés & recommandations: [`reports/akowe_executive_summary.pptx`](https://gamma.app/docs/PROJET-HORIZON-AKOWE-EXPANSION-D-EdTech-EN-AFRIQUE-SUBSAHARIENNE-lgshhq2y4etya2t)
 
 ## 9. Résultats & recommandations stratégiques
 
@@ -327,5 +339,3 @@ jupyter notebook notebooks/akowe_diallo.ipynb
 - **Python 3.8+** (recommandé : 3.10+)
 - **pip** & virtualenv
 - ~500MB disk space (data + dependencies)
-
----
