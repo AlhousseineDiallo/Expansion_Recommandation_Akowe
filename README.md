@@ -232,15 +232,18 @@ $$\text{MAS} = 35 \times \text{Scale} + 25 \times \text{Momentum} + 25 \times \t
 
 ---
 
+## Livrable unifié:
+- PowerPoint exécutif avec visualisations clés & recommandations: [`reports/akowe_executive_summary.pptx`](https://1drv.ms/p/c/e46a7471f185415f/IQAEbv1hCbZVRZ8pvO1mSnDvAWc7Zcz9E3Yi8OF7WuIkpHk?e=MuXMSG)
+
 ## 9. Résultats & recommandations stratégiques
 
 ### Résultats clés (données 2014)
 
 **Go-to-Market (45–76 points)** — Déploiement immédiat justifié
-- **Nigeria** (~72 pts) : Géant africain du scale + momentum croissant. Freins : Digital Readiness moyen → partenaires telcoms priori.
-- **Ghana** (~68 pts) : Stable, bonne infrastructure digitale. Croissance éducative régulière → déploiement full-stack recommandé.
-- **Kenya** (~65 pts) : Hub tech East Africa, bonne infrastructure. Scale moins large que Nigeria mais haute Ability to Pay → stratégie premium viable.
-- **Senegal, Ethiopia** (~58–60 pts) : Bons profils mais avec des lacunes (Senegal sur Digital ; Ethiopia sur revenu). Déploiement avec ajustements tactiques.
+- **South Africa** (~76 pts) : Géant africain du scale + momentum croissant. Freins : Digital Readiness moyen → partenaires telcoms priori.
+- **Nigeria** (~57 pts) : Stable, bonne infrastructure digitale. Croissance éducative régulière → déploiement full-stack recommandé.
+- **Seychelles** (~52 pts) : Hub tech East Africa, bonne infrastructure. Scale moins large que Nigeria mais haute Ability to Pay → stratégie premium viable.
+- **Gabon, Botswana** (~58–60 pts) : Bons profils mais avec des lacunes (Gabon sur Digital ; Botswana sur revenu). Déploiement avec ajustements tactiques.
 
 **Build & Partnerships (25–45 points)** — ~60% des 48 pays
 - Opportunités réelles mais nécessitant partenaires clés (gouvernements, telcoms, ONG).
@@ -268,10 +271,6 @@ $$\text{MAS} = 35 \times \text{Scale} + 25 \times \text{Momentum} + 25 \times \t
 
 ⚠️ **Non-adressé** : Risques politique/régulation, qualité de gouvernance, stabilité macroéconomique. Recommandation : ajouter layer de risk-scoring pour pays Go-to-Market (ex: volatilité électorale, risque de confiscation).
 
-✨ **Perspectives de productionization** :
-- Refactoriser code notebook → modules Python réutilisables (data_pipeline.py, scoring_engine.py, visualize.py)
-- Pipeline auto-refresh annuel (ingérer données Banque Mondiale, recalculer MAS, générer rapports)
-- Dashboard interactif (Tableau/Power BI) pour suivi qualitatif par équipes opérationnelles
 
 ---
 
@@ -308,6 +307,7 @@ $$\text{MAS} = 35 \times \text{Scale} + 25 \times \text{Momentum} + 25 \times \t
 
 ```bash
 # 1. Clone repo & navigate
+git clone [adresse du repo]
 cd akowe_project
 
 # 2. Create virtual environment
@@ -329,23 +329,3 @@ jupyter notebook notebooks/akowe_diallo.ipynb
 - ~500MB disk space (data + dependencies)
 
 ---
-
-## 11. Auteur
-
-**Aseïny Diallo**  
-Senior Data Scientist | EdTech Strategy & Market Analytics  
-
-**Expertise** : Data science, machine learning, statistical analysis, market strategy  
-**Domaine** : EdTech, African markets, impact investing  
-**Projet** : Market Attractiveness Scoring system for Sub-Saharan African EdTech markets  
-
----
-
-## 12. Historique & évolution du projet
-
-**v1.0 (2014)** — Analyse initiale EdStats 2009–2014. Score composite MAS conçu et validé. Segmentation 3 catégories appliquée.  
-**À venir (v2.0)** :
-- Ingestion données actualisées 2015–2025
-- Refactorisation code notebook → modules production-ready
-- Ajout risk-scoring géopolitique
-- Dashboard interactif temps réel
