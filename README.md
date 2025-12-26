@@ -245,7 +245,7 @@ MAS = 35 × Scale + 25 × Momentum + 25 × AbilityToPay + 15 × DigitalReadiness
 ---
 
 ## Livrable unifié:
-- PowerPoint exécutif avec visualisations clés & recommandations: [`reports/akowe_executive_summary.pptx`](https://gamma.app/docs/PROJET-HORIZON-AKOWE-EXPANSION-D-EdTech-EN-AFRIQUE-SUBSAHARIENNE-lgshhq2y4etya2t)
+- PowerPoint exécutif avec visualisations clés & recommandations: [`reports/akowe_executive_summary.pptx`](https://docs.google.com/presentation/d/1Z5iHrEf2mkD6-u5fiQvdOjxgceo86-08/edit?usp=sharing&ouid=113736505404077843277&rtpof=true&sd=true)
 
 ## 9. Résultats & recommandations stratégiques
 
